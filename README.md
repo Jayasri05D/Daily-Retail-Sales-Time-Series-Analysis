@@ -63,24 +63,6 @@ This project focuses on analyzing daily retail sales data using time series anal
 
 ---
 
-## 🚀 Future Improvements
 
-- Apply ARIMA / SARIMA forecasting models
-- Add anomaly detection for unusual sales days
-- Include forecasting accuracy evaluation
-- Deploy insights using dashboards
-
----
-
-## 👩‍💻 Author
-
-**Jayasri D**  
-Final Year Project / Data Analytics Portfolio
-
----
-
-## 📜 License
-
-This project is for educational and academic use.
 
 
